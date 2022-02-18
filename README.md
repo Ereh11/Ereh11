@@ -10,4 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love Recursive problems😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
