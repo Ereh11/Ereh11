@@ -1,5 +1,10 @@
-### Hello, I'm Hany Saad 👋
+<p align="center">
 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
+[![Hany's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ereh11&theme=xcode)](https://git.io/Ereh11)
 
 - 🔭 I’m a senior student in Luxor University, Faculatiy of Computers and Information, Computer Science deparment
 - 🌱 I’m currently learning data sience and ML
