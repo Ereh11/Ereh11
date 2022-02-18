@@ -2,7 +2,9 @@
 <hr>
 <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img width="50%" src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif">
+  <img src = "https://user-images.githubusercontent.com/30123691/98157752-cecd8000-1eff-11eb-9230-68eefc34cddb.png" align = "right"
+alt = "jumper boi2" height = "260">
   
 </p>
 <hr>
@@ -38,3 +40,5 @@ Contribution | Language
 [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Ereh11)
 <br>
 <hr>
+
+
