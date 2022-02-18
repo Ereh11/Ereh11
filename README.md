@@ -1,10 +1,15 @@
+<h3 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>, Welcome to my GitHub Profile <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<hr>
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
+<hr>
 
 [![Hany's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ereh11&theme=xcode)](https://git.io/Ereh11)
+
+<hr>
 
 - 🔭 I’m a senior student in Luxor University, Faculatiy of Computers and Information, Computer Science deparment
 - 🌱 I’m currently learning data sience and ML
@@ -14,11 +19,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love Recursive problems😄
+
 ## Stats 💯
+
+<p align="center"><img src="https://profile-counter.glitch.me/%7BEreh11%7D/count.svg" alt="visitor badge"/></p>
 
 Contribution | Language
 --- | --- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=synthwave) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Ereh11-lu&style=flat)
