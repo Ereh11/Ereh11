@@ -28,3 +28,13 @@ Contribution | Language
 --- | --- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=synthwave) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<hr>
+
+### :speech_balloon: &nbsp;Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hany-abdou-731b831a1/)
+
+
+[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Ereh11)
+<br>
+<hr>
