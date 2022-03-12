@@ -13,7 +13,7 @@ alt = "jumper boi2" height = "260">
 
 <hr>
 
-- 🔭 I’m a senior student in Luxor University, Faculatiy of Computers and Information, Computer Science deparment
+- 🔭 I’m a senior student in Luxor University, Faculty of Computers and Information, Computer Science deparment
 - 🌱 I’m currently learning data sience and ML 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
