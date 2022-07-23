@@ -13,6 +13,7 @@ alt = "jumper boi2" height = "260">
 
 <hr>
 - 📚 B.S. Computer Science @ Luxor University
+
 - 🌱 I’m currently learning data sience and ML 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
