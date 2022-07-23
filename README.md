@@ -3,8 +3,7 @@
 <p align="center">
 
   <img width="50%" src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif">
-  <img src = "https://user-images.githubusercontent.com/30123691/98157752-cecd8000-1eff-11eb-9230-68eefc34cddb.png" align = "right"
-alt = "jumper boi2" height = "260">
+  
   
 </p>
 <hr>
