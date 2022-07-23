@@ -12,9 +12,10 @@ alt = "jumper boi2" height = "260">
 [![Hany's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ereh11&theme=xcode)](https://git.io/Ereh11)
 
 <hr>
-- 📚 B.S. Computer Science @ Luxor University
 
-- 🌱 I’m currently learning data sience and ML 
+-📚 B.S. Computer Science @ Luxor University
+
+-🌱 I’m currently learning data sience and ML 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
