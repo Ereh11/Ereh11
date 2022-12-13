@@ -16,7 +16,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
 
-## Stats 🔥
+## Status 🔥
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEreh11%7D/count.svg" alt="visitor badge"/></p>
 
