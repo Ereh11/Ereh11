@@ -7,14 +7,16 @@
   
 </p>
 
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me:
+
 -📚 B.S. Computer Science @ Luxor University
 
--🌱 I’m currently learning data sience and ML 
+-🌱 I’m currently learning data science and ML 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...-->
+- 😄 Pronouns: 
 
 ## Status 🔥
 
