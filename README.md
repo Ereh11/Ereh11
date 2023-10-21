@@ -1,24 +1,23 @@
 <h3 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>, Welcome to my GitHub Profile <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <hr>
 <p align="center">
-
   <img width="50%" src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif">
-  
-  
 </p>
+	
+## <picture><img src = "https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width = 100px></picture> About Me
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me:
+<picture> <img align="right" src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 150> </picture>
 
 -📚 B.S. Computer Science @ Luxor University
 
 -🌱 I’m currently learning data science and ML 
-<!-- 👯 I’m looking to collaborate on ... 
+<!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
-## Status 🔥
+## <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width = 45> </picture> Status
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEreh11%7D/count.svg" alt="visitor badge"/></p>
 
@@ -29,7 +28,7 @@ Contribution | Language
 
 <hr>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <picture> <img src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 50px></picture> Connect with me
 <p align="center">
 <a href="mailto:hanysaadstd@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Ereh11"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
