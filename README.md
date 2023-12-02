@@ -8,22 +8,26 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 150> </picture>
 
--📚 B.S. Computer Science @ Luxor University
-
--🌱 I’m currently learning data science and ML 
-<!--- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- 📚 B.S. Computer Science @Luxor University
+- 👨🏻‍💻 BI and Data Analytics Engineer
+- 🪄 Currently open for  new job opportunities, This is [MY RESUME](https://drive.google.com/file/d/1uX5-V0lcQSxa01Kj3wrkwVRwEgDxnpPl/view?usp=drive_link)
 
 ## <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width = 45> </picture> Status
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEreh11%7D/count.svg" alt="visitor badge"/></p>
 
-Contribution | Language
---- | --- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=synthwave) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo" alt="Ereh" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Hany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="330"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ereh11&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ereh" height="330px"/>
+   
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+<br/>
+
+</p>
 
 
 <hr>
