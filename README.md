@@ -21,7 +21,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo" alt="Ereh" />
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Hany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ereh11&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ereh" height="250px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ereh11&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="Ereh" height="250"/>
    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
