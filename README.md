@@ -11,7 +11,7 @@
 - 📚 B.S. Computer Science @Luxor University
 - 👨🏻‍💻 BI and Data Analytics Engineer
 - 🪄 Currently open for  new job opportunities, This is [MY RESUME](https://drive.google.com/file/d/1uX5-V0lcQSxa01Kj3wrkwVRwEgDxnpPl/view?usp=drive_link)
-- 📝 You can find my BI Projects here [My Portfolio](https://www.novypro.com/profile_projects/hany-saad)
+- 📝 You can find my Projects here [My Portfolio](https://ereh11.github.io/Portfolio/)
 
 ## <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width = 45> </picture> Status
 
