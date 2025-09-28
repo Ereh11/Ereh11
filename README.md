@@ -9,8 +9,8 @@
 <picture> <img align="right" src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 150> </picture>
 
 - 📚 B.S. Computer Science @Luxor University
-- 👨🏻‍💻 .NET Full Stack Developer
-- 🪄 Currently open for  new job opportunities, This is [MY RESUME](https://drive.google.com/file/d/1uX5-V0lcQSxa01Kj3wrkwVRwEgDxnpPl/view?usp=drive_link)
+- 👨🏻‍💻 Software Developer
+- 🪄 Currently open for  new job opportunities, This is [MY RESUME](https://drive.google.com/file/d/1v_coPwt698CzDynIXY26jE9x90OmOJ_-/view?usp=drive_link)
 - 📝 You can find my Projects here [My Portfolio](https://ereh11.github.io/Portfolio/)
 
 ## <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width = 45> </picture> Status
