@@ -48,7 +48,7 @@ const Hany = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Ereh11&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
