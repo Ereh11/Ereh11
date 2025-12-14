@@ -25,10 +25,12 @@ const Hany = {
     role: "Software Developer",
     status: "Open for new opportunities",
     portfolio: "https://ereh11.github.io/Portfolio/",
-    code: ["JavaScript", "Python", "Java", "C++"],
-    tools: ["React", "Node.js", "Git", "Docker"],
+    code: ["C#", "JavaScript", "TypeScript", "Python", "Java", "C++"],
+    tools: ["Angular", "Node.js", "Git", "Docker"],
+    cloud: ["Azure", "AWS"],
+    microsoft: ["Dynamics 365", "Power Platform"],
     architecture: ["REST APIs", "Microservices", "Design Patterns"],
-    currentFocus: "Building scalable applications & learning new technologies"
+    currentFocus: "Building scalable cloud applications & Microsoft Business Solutions"
 };
 ```
 
@@ -43,19 +45,23 @@ const Hany = {
 
 ---
 
-## <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width="50px"> GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ereh11&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img alt="Hany's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ereh11&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="192px"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ereh11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ereh11&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ereh11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -69,16 +75,17 @@ const Hany = {
 
 <p align="center">
   <strong>Languages</strong><br>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 <p align="center">
   <strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -86,10 +93,27 @@ const Hany = {
 
 <p align="center">
   <strong>Backend & Database</strong><br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+<p align="center">
+  <strong>Cloud Platforms</strong><br>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+<p align="center">
+  <strong>Microsoft Business Applications</strong><br>
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=dynamics-365&logoColor=white" alt="Dynamics 365"/>
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=power-automate&logoColor=white" alt="Power Platform"/>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </p>
 
 <p align="center">
@@ -97,13 +121,14 @@ const Hany = {
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 
 ---
 
-## <img src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width="50px"> Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:hanysaadstd@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
