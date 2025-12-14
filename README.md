@@ -48,10 +48,7 @@ const Hany = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/409ba5/Ereh11" alt="GitHub Contribution Chart" />
-</p>
-
-<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
 
