@@ -48,7 +48,7 @@ const Hany = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ereh11&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://ghchart.rshah.org/Ereh11" alt="GitHub Contribution Chart" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ const Hany = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ereh11&theme=tokyonight&no-frame=false&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
