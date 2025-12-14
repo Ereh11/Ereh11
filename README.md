@@ -48,16 +48,16 @@ const Hany = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Ereh11" alt="GitHub Contribution Chart" />
+  <img width="100%" src="https://ghchart.rshah.org/409ba5/Ereh11" alt="GitHub Contribution Chart" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ereh11&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereh11&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo&hide_border=false" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ereh11&theme=tokyonight_duo&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
